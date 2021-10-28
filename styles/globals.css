@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+.bg-image {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url('../public/background.jpg') no-repeat;
+  background-size: cover;
+  color: white;
+}
+

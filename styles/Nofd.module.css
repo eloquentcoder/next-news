@@ -1,0 +1,26 @@
+.main {
+    padding: 40px 20%;
+}
+
+.headerRow {
+    display: flex;
+    align-items: center;
+}
+
+.headerText {
+    color: white;
+}
+
+.imgRounded {
+    border-radius: 100px;
+    margin-right: 20px;
+}
+
+.text {
+    color: white;
+}
+
+.moreText {
+    color: rgb(31, 128, 207);
+    cursor: pointer;
+}
